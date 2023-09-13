@@ -1,0 +1,10 @@
+INFO:root:Called hello_world with args: (), kwargs: {} at 2023-09-13 22:09:13.651857
+INFO:root:hello_world returned: Hello World
+INFO:root:Called summator with args: (2, 2), kwargs: {} at 2023-09-13 22:09:13.651857
+INFO:root:summator returned: 4
+INFO:root:Called div with args: (6, 2), kwargs: {} at 2023-09-13 22:09:13.651857
+INFO:root:div returned: 3.0
+INFO:root:Called summator with args: (4.3,), kwargs: {'b': 2.2} at 2023-09-13 22:09:13.652854
+INFO:root:summator returned: 6.5
+INFO:root:Called summator with args: (), kwargs: {'a': 0, 'b': 0} at 2023-09-13 22:09:13.652854
+INFO:root:summator returned: 0

@@ -1,0 +1,72 @@
+Called hello_world with args: (), kwargs: {} at 2023-09-13 22:09:42.282859
+Called hello_world with args: (), kwargs: {} at 2023-09-13 22:09:42.282859
+Called hello_world with args: (), kwargs: {} at 2023-09-13 22:09:42.282859
+hello_world returned: Hello World
+hello_world returned: Hello World
+hello_world returned: Hello World
+Called summator with args: (2, 2), kwargs: {} at 2023-09-13 22:09:42.282859
+Called summator with args: (2, 2), kwargs: {} at 2023-09-13 22:09:42.282859
+Called summator with args: (2, 2), kwargs: {} at 2023-09-13 22:09:42.282859
+summator returned: 4
+summator returned: 4
+summator returned: 4
+Called div with args: (6, 2), kwargs: {} at 2023-09-13 22:09:42.283856
+Called div with args: (6, 2), kwargs: {} at 2023-09-13 22:09:42.283856
+Called div with args: (6, 2), kwargs: {} at 2023-09-13 22:09:42.283856
+div returned: 3.0
+div returned: 3.0
+div returned: 3.0
+Called summator with args: (4.3,), kwargs: {'b': 2.2} at 2023-09-13 22:09:42.283856
+Called summator with args: (4.3,), kwargs: {'b': 2.2} at 2023-09-13 22:09:42.283856
+Called summator with args: (4.3,), kwargs: {'b': 2.2} at 2023-09-13 22:09:42.283856
+summator returned: 6.5
+summator returned: 6.5
+summator returned: 6.5
+Called hello_world with args: (), kwargs: {} at 2023-09-13 22:09:42.283856
+Called hello_world with args: (), kwargs: {} at 2023-09-13 22:09:42.283856
+Called hello_world with args: (), kwargs: {} at 2023-09-13 22:09:42.283856
+hello_world returned: Hello World
+hello_world returned: Hello World
+hello_world returned: Hello World
+Called summator with args: (2, 2), kwargs: {} at 2023-09-13 22:09:42.283856
+Called summator with args: (2, 2), kwargs: {} at 2023-09-13 22:09:42.283856
+Called summator with args: (2, 2), kwargs: {} at 2023-09-13 22:09:42.283856
+summator returned: 4
+summator returned: 4
+summator returned: 4
+Called div with args: (6, 2), kwargs: {} at 2023-09-13 22:09:42.284852
+Called div with args: (6, 2), kwargs: {} at 2023-09-13 22:09:42.284852
+Called div with args: (6, 2), kwargs: {} at 2023-09-13 22:09:42.284852
+div returned: 3.0
+div returned: 3.0
+div returned: 3.0
+Called summator with args: (4.3,), kwargs: {'b': 2.2} at 2023-09-13 22:09:42.284852
+Called summator with args: (4.3,), kwargs: {'b': 2.2} at 2023-09-13 22:09:42.284852
+Called summator with args: (4.3,), kwargs: {'b': 2.2} at 2023-09-13 22:09:42.284852
+summator returned: 6.5
+summator returned: 6.5
+summator returned: 6.5
+Called hello_world with args: (), kwargs: {} at 2023-09-13 22:09:42.284852
+Called hello_world with args: (), kwargs: {} at 2023-09-13 22:09:42.284852
+Called hello_world with args: (), kwargs: {} at 2023-09-13 22:09:42.284852
+hello_world returned: Hello World
+hello_world returned: Hello World
+hello_world returned: Hello World
+Called summator with args: (2, 2), kwargs: {} at 2023-09-13 22:09:42.284852
+Called summator with args: (2, 2), kwargs: {} at 2023-09-13 22:09:42.284852
+Called summator with args: (2, 2), kwargs: {} at 2023-09-13 22:09:42.284852
+summator returned: 4
+summator returned: 4
+summator returned: 4
+Called div with args: (6, 2), kwargs: {} at 2023-09-13 22:09:42.285849
+Called div with args: (6, 2), kwargs: {} at 2023-09-13 22:09:42.285849
+Called div with args: (6, 2), kwargs: {} at 2023-09-13 22:09:42.285849
+div returned: 3.0
+div returned: 3.0
+div returned: 3.0
+Called summator with args: (4.3,), kwargs: {'b': 2.2} at 2023-09-13 22:09:42.285849
+Called summator with args: (4.3,), kwargs: {'b': 2.2} at 2023-09-13 22:09:42.285849
+Called summator with args: (4.3,), kwargs: {'b': 2.2} at 2023-09-13 22:09:42.285849
+summator returned: 6.5
+summator returned: 6.5
+summator returned: 6.5
